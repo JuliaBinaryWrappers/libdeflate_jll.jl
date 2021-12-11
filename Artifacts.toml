@@ -1,113 +1,143 @@
 [[libdeflate]]
 arch = "aarch64"
-git-tree-sha1 = "71b5edcc6bc5531da983edf48b70cdfc3556bf8f"
-libc = "glibc"
-os = "linux"
-
-    [[libdeflate.download]]
-    sha256 = "ea4cd8be42c7b445905b3358db5d740ec84490aef2e4610b1503d7450c6203ba"
-    url = "https://github.com/JuliaBinaryWrappers/libdeflate_jll.jl/releases/download/libdeflate-v1.6.0+0/libdeflate.v1.6.0.aarch64-linux-gnu.tar.gz"
-[[libdeflate]]
-arch = "aarch64"
-git-tree-sha1 = "940517dba31591cc007dacc7ac242a0f12bfba84"
-libc = "musl"
-os = "linux"
-
-    [[libdeflate.download]]
-    sha256 = "7312f980c8f0782f30116e2877e77d268e7b02ad57485c81a886a00934a05b36"
-    url = "https://github.com/JuliaBinaryWrappers/libdeflate_jll.jl/releases/download/libdeflate-v1.6.0+0/libdeflate.v1.6.0.aarch64-linux-musl.tar.gz"
-[[libdeflate]]
-arch = "armv7l"
-git-tree-sha1 = "e3749442c44cb9b7e2cc9c17321a526cd0028614"
-libc = "glibc"
-os = "linux"
-
-    [[libdeflate.download]]
-    sha256 = "920c7c97dda3580b2ed8fb3c253d0d6714136b8d445c525cebb490d7051e3332"
-    url = "https://github.com/JuliaBinaryWrappers/libdeflate_jll.jl/releases/download/libdeflate-v1.6.0+0/libdeflate.v1.6.0.armv7l-linux-gnueabihf.tar.gz"
-[[libdeflate]]
-arch = "armv7l"
-git-tree-sha1 = "42e09af9bffecd371730443c7b4939f8b1a73e8a"
-libc = "musl"
-os = "linux"
-
-    [[libdeflate.download]]
-    sha256 = "4eb183446686bf0fbe62981ced282bdb7be305c02c0b36eaebf1b1ada515f23e"
-    url = "https://github.com/JuliaBinaryWrappers/libdeflate_jll.jl/releases/download/libdeflate-v1.6.0+0/libdeflate.v1.6.0.armv7l-linux-musleabihf.tar.gz"
-[[libdeflate]]
-arch = "i686"
-git-tree-sha1 = "edcb745fbce394bed92d24489f414c52fd7c8ead"
-libc = "glibc"
-os = "linux"
-
-    [[libdeflate.download]]
-    sha256 = "b72de4b923a2ee40b6a72289272550bec80ecc96c7df00f59b2dd6974c4af6bf"
-    url = "https://github.com/JuliaBinaryWrappers/libdeflate_jll.jl/releases/download/libdeflate-v1.6.0+0/libdeflate.v1.6.0.i686-linux-gnu.tar.gz"
-[[libdeflate]]
-arch = "i686"
-git-tree-sha1 = "caee86b58a910a4e551cd5d63130cbf92830aa95"
-libc = "musl"
-os = "linux"
-
-    [[libdeflate.download]]
-    sha256 = "6fa8cb2aa96faf791f4383b21eaa8e7f3bcf920a07e7accc7bf064a29d4f23f0"
-    url = "https://github.com/JuliaBinaryWrappers/libdeflate_jll.jl/releases/download/libdeflate-v1.6.0+0/libdeflate.v1.6.0.i686-linux-musl.tar.gz"
-[[libdeflate]]
-arch = "i686"
-git-tree-sha1 = "af2e1b65445baab8862d976dbf5044d627588715"
-os = "windows"
-
-    [[libdeflate.download]]
-    sha256 = "20859aae7d2281cd947475d047adf4d07548f00d9243816b5a85c8af79e32e8d"
-    url = "https://github.com/JuliaBinaryWrappers/libdeflate_jll.jl/releases/download/libdeflate-v1.6.0+0/libdeflate.v1.6.0.i686-w64-mingw32.tar.gz"
-[[libdeflate]]
-arch = "powerpc64le"
-git-tree-sha1 = "039bde7f6e789e26be1093164054345b3b29a2ce"
-libc = "glibc"
-os = "linux"
-
-    [[libdeflate.download]]
-    sha256 = "e69b008994c7515b37eb7ed825f133272e2d13705f85e17c01ce838aead75d20"
-    url = "https://github.com/JuliaBinaryWrappers/libdeflate_jll.jl/releases/download/libdeflate-v1.6.0+0/libdeflate.v1.6.0.powerpc64le-linux-gnu.tar.gz"
-[[libdeflate]]
-arch = "x86_64"
-git-tree-sha1 = "7cec4195c0422c4f94c45d6319a2c452d6848da7"
+git-tree-sha1 = "a23e53b87d11b8e3d28293e0f443e93e9f8d8cf6"
 os = "macos"
 
     [[libdeflate.download]]
-    sha256 = "2d4b2999d57c9510dd08f49364da4cf2ffdf437544988789bbdf35fa5e473bd0"
-    url = "https://github.com/JuliaBinaryWrappers/libdeflate_jll.jl/releases/download/libdeflate-v1.6.0+0/libdeflate.v1.6.0.x86_64-apple-darwin14.tar.gz"
+    sha256 = "6db90d9ba41ab58dbc330ea5093d14cbac2f95ca43d8d33b603b064d3743d56c"
+    url = "https://github.com/JuliaBinaryWrappers/libdeflate_jll.jl/releases/download/libdeflate-v1.8.0+0/libdeflate.v1.8.0.aarch64-apple-darwin.tar.gz"
 [[libdeflate]]
-arch = "x86_64"
-git-tree-sha1 = "34c6ce6efe0bcdbc968762b8faeb04024ef0d8ce"
+arch = "aarch64"
+git-tree-sha1 = "c55068f189a76b870e2276e7ceded71aa4640658"
 libc = "glibc"
 os = "linux"
 
     [[libdeflate.download]]
-    sha256 = "966bf83a9ec093081c4fb751903de51a8b2d00981dbb357a6c2f02e12a136980"
-    url = "https://github.com/JuliaBinaryWrappers/libdeflate_jll.jl/releases/download/libdeflate-v1.6.0+0/libdeflate.v1.6.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "12bf4687cb274e91ebd42c386ef4779f2b0d93028a577ba0e5becfab080b1506"
+    url = "https://github.com/JuliaBinaryWrappers/libdeflate_jll.jl/releases/download/libdeflate-v1.8.0+0/libdeflate.v1.8.0.aarch64-linux-gnu.tar.gz"
 [[libdeflate]]
-arch = "x86_64"
-git-tree-sha1 = "c317d40f61d94ed8f054e8dac13b120bc81dd3ad"
+arch = "aarch64"
+git-tree-sha1 = "61d40b7f959d27bd209052c8fbc0c5e233514faa"
 libc = "musl"
 os = "linux"
 
     [[libdeflate.download]]
-    sha256 = "ac15b079931b773abccb1fc2516ab8ea022310e2517606ddd313f5329c590641"
-    url = "https://github.com/JuliaBinaryWrappers/libdeflate_jll.jl/releases/download/libdeflate-v1.6.0+0/libdeflate.v1.6.0.x86_64-linux-musl.tar.gz"
+    sha256 = "45f4777800d5fc70011048e64001b3796a14e470ffbd3a376b9915924c73008e"
+    url = "https://github.com/JuliaBinaryWrappers/libdeflate_jll.jl/releases/download/libdeflate-v1.8.0+0/libdeflate.v1.8.0.aarch64-linux-musl.tar.gz"
 [[libdeflate]]
-arch = "x86_64"
-git-tree-sha1 = "5978a6aaec2f0eeeaead9b2d88a17cb6cff09597"
-os = "freebsd"
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "ecaa4de1d0aceb3f9379e45cd0732319c2ebd1a4"
+libc = "glibc"
+os = "linux"
 
     [[libdeflate.download]]
-    sha256 = "2d2d1a23705ecbdc3955a5c4ee0b6c816236613cc154c704c9824cedfc835b0d"
-    url = "https://github.com/JuliaBinaryWrappers/libdeflate_jll.jl/releases/download/libdeflate-v1.6.0+0/libdeflate.v1.6.0.x86_64-unknown-freebsd11.1.tar.gz"
+    sha256 = "bcf343f7336d1f7e52dfc7c783267e2c2ee2d27bd98d80d4c062a5b1e55f24b0"
+    url = "https://github.com/JuliaBinaryWrappers/libdeflate_jll.jl/releases/download/libdeflate-v1.8.0+0/libdeflate.v1.8.0.armv6l-linux-gnueabihf.tar.gz"
 [[libdeflate]]
-arch = "x86_64"
-git-tree-sha1 = "75e54109b5f4611e59f450f8b47394bb7979fc67"
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "40b65b2662ee60d14e78774bab802e191083948a"
+libc = "musl"
+os = "linux"
+
+    [[libdeflate.download]]
+    sha256 = "a95fc4aae32de4037c1d55533e2b358840a97b5b62e3417c8fa86ee95b0f1d16"
+    url = "https://github.com/JuliaBinaryWrappers/libdeflate_jll.jl/releases/download/libdeflate-v1.8.0+0/libdeflate.v1.8.0.armv6l-linux-musleabihf.tar.gz"
+[[libdeflate]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f8cc1328a8f77d67da194872a873fe7ff589873e"
+libc = "glibc"
+os = "linux"
+
+    [[libdeflate.download]]
+    sha256 = "bc5b1546429d2d8c2587215339f37b06c41715e648aa7e0c46efe8d5bd3969d2"
+    url = "https://github.com/JuliaBinaryWrappers/libdeflate_jll.jl/releases/download/libdeflate-v1.8.0+0/libdeflate.v1.8.0.armv7l-linux-gnueabihf.tar.gz"
+[[libdeflate]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "ac740ddbf64058203960c04edb38eac99ed85a0c"
+libc = "musl"
+os = "linux"
+
+    [[libdeflate.download]]
+    sha256 = "f0a564a8b7000b230f06c90e454de055f60cc8e2aa6b264bba7c7799db7cb0e6"
+    url = "https://github.com/JuliaBinaryWrappers/libdeflate_jll.jl/releases/download/libdeflate-v1.8.0+0/libdeflate.v1.8.0.armv7l-linux-musleabihf.tar.gz"
+[[libdeflate]]
+arch = "i686"
+git-tree-sha1 = "a79fc0d645482128edf29d4452722cfe4fe6ac04"
+libc = "glibc"
+os = "linux"
+
+    [[libdeflate.download]]
+    sha256 = "86e52a27d20b7a3e59637a0ed6d098ae3b78467a095f60a14b0d76d01fb357c8"
+    url = "https://github.com/JuliaBinaryWrappers/libdeflate_jll.jl/releases/download/libdeflate-v1.8.0+0/libdeflate.v1.8.0.i686-linux-gnu.tar.gz"
+[[libdeflate]]
+arch = "i686"
+git-tree-sha1 = "0fc7422946c147e3383048f3de9d4139072317c5"
+libc = "musl"
+os = "linux"
+
+    [[libdeflate.download]]
+    sha256 = "d15d7b5d2d02759e7aa60b7658d9c10f52833e66c7baa24e4d23a6c8b4958b49"
+    url = "https://github.com/JuliaBinaryWrappers/libdeflate_jll.jl/releases/download/libdeflate-v1.8.0+0/libdeflate.v1.8.0.i686-linux-musl.tar.gz"
+[[libdeflate]]
+arch = "i686"
+git-tree-sha1 = "60eb6a37d7eef037cedc9f8b41b02e7735c6cd13"
 os = "windows"
 
     [[libdeflate.download]]
-    sha256 = "93d5e2867eeea2d9b7c165e6dc01677257cf14862ed578296741f9a7e3a5d759"
-    url = "https://github.com/JuliaBinaryWrappers/libdeflate_jll.jl/releases/download/libdeflate-v1.6.0+0/libdeflate.v1.6.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "124ffc0b2fc9bd6a3fd134072e9c03f01c21853bebabeab823632a29fdb9b242"
+    url = "https://github.com/JuliaBinaryWrappers/libdeflate_jll.jl/releases/download/libdeflate-v1.8.0+0/libdeflate.v1.8.0.i686-w64-mingw32.tar.gz"
+[[libdeflate]]
+arch = "powerpc64le"
+git-tree-sha1 = "f3730c19945e7973f12f7cc71016998dcec932db"
+libc = "glibc"
+os = "linux"
+
+    [[libdeflate.download]]
+    sha256 = "af02aeaa3c78b261ad6e36e4894c60671d422728327f28f1c462e50d5dcbce0b"
+    url = "https://github.com/JuliaBinaryWrappers/libdeflate_jll.jl/releases/download/libdeflate-v1.8.0+0/libdeflate.v1.8.0.powerpc64le-linux-gnu.tar.gz"
+[[libdeflate]]
+arch = "x86_64"
+git-tree-sha1 = "8a90857c48fbf5b3fe57a7848aa40dc38c0723f7"
+os = "macos"
+
+    [[libdeflate.download]]
+    sha256 = "ec230f7630a3270afb3a373243a29216fa46c0e3a1014cd6b0185808b9d20c3b"
+    url = "https://github.com/JuliaBinaryWrappers/libdeflate_jll.jl/releases/download/libdeflate-v1.8.0+0/libdeflate.v1.8.0.x86_64-apple-darwin.tar.gz"
+[[libdeflate]]
+arch = "x86_64"
+git-tree-sha1 = "147c657172074a895cad1495be4ee39dffb30bda"
+libc = "glibc"
+os = "linux"
+
+    [[libdeflate.download]]
+    sha256 = "ce3d58bc723fcf83ce5aef78c90c130e6cbd5b1ac8aa6f382905102342b96e19"
+    url = "https://github.com/JuliaBinaryWrappers/libdeflate_jll.jl/releases/download/libdeflate-v1.8.0+0/libdeflate.v1.8.0.x86_64-linux-gnu.tar.gz"
+[[libdeflate]]
+arch = "x86_64"
+git-tree-sha1 = "cb5368edd816eca3df9c830abb6e5ad383ae252d"
+libc = "musl"
+os = "linux"
+
+    [[libdeflate.download]]
+    sha256 = "742a8133732448efe679a5921b66189016691089d432d56a1f5b561f8993cb19"
+    url = "https://github.com/JuliaBinaryWrappers/libdeflate_jll.jl/releases/download/libdeflate-v1.8.0+0/libdeflate.v1.8.0.x86_64-linux-musl.tar.gz"
+[[libdeflate]]
+arch = "x86_64"
+git-tree-sha1 = "bd8ac40fd89f34152957da7b09753b9b69463a95"
+os = "freebsd"
+
+    [[libdeflate.download]]
+    sha256 = "fcedb93c7460791b0a523055a80a41015c232d2f61053e5f0a23fc55b57f8e01"
+    url = "https://github.com/JuliaBinaryWrappers/libdeflate_jll.jl/releases/download/libdeflate-v1.8.0+0/libdeflate.v1.8.0.x86_64-unknown-freebsd.tar.gz"
+[[libdeflate]]
+arch = "x86_64"
+git-tree-sha1 = "20f07865cc948f191dc312430dc1ba040c17d92a"
+os = "windows"
+
+    [[libdeflate.download]]
+    sha256 = "4cc9e861cf8e81a3b083cb7cbf461d0d0a1d2355f866542085b16277c8eff679"
+    url = "https://github.com/JuliaBinaryWrappers/libdeflate_jll.jl/releases/download/libdeflate-v1.8.0+0/libdeflate.v1.8.0.x86_64-w64-mingw32.tar.gz"
