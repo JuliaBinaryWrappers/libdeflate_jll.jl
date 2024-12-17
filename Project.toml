@@ -1,6 +1,6 @@
 name = "libdeflate_jll"
 uuid = "46979653-d7f6-5232-b59e-dd310c4598de"
-version = "1.22.0+0"
+version = "1.23.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
